@@ -1,4 +1,4 @@
-# 🎧 AI Resource Categorizer – Trailblaze
+# 🎧 AI Resource Categorizer – 
 
 This is a production-ready Python script that transcribes, analyzes, and intelligently tags video, audio, PDF, and HTML resources using AI.
 
