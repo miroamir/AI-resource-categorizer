@@ -1,0 +1,11 @@
+aiohttp
+beautifulsoup4
+deepgram-sdk
+google-generativeai
+openai
+python-dotenv
+requests
+PyPDF2
+selenium
+sqlalchemy
+yt-dlp
